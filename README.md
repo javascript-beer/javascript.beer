@@ -12,7 +12,7 @@ y todo lo que se nos ocurra.
 
 ## Participa
 
-Para participar puedes [crear un issue](https://github.com/javascript-beer/javascript.beer/issues/new)
+Para participar, puedes [crear un issue](https://github.com/javascript-beer/javascript.beer/issues/new)
 indicando qué actividad te apetece ver:
 persona ponente o entrevistada,
 tipo de actividad,
@@ -23,9 +23,9 @@ fechas, y todo lo que pueda facilitar la organización del evento.
 El equipo fundador:
 
 * Laura Morillo,
-* Félix García,
+* Félix Zapata,
 * Manu Fosela,
-* Raquel Benito,
+* Raquel Benito, "pandora"
 * Álvaro Quirós,
 * Alex Fernández "pinchito".
 
