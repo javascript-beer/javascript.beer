@@ -15,4 +15,5 @@
 * Natalia Venditto
 * David Bonilla
 * Sema 
+* https://twitter.com/Terceranexus6
 
