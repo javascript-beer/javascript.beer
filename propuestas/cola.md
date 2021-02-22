@@ -16,4 +16,5 @@
 * David Bonilla
 * Sema 
 * https://twitter.com/Terceranexus6
+* Jaume Sanchez Elias https://twitter.com/thespite
 
