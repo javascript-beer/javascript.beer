@@ -5,8 +5,11 @@
 Manu Fosela
 Laura Morillo
 
-## Preguntas
+## Beerguntas (para todos los invitados)
 
 * ¿Cómo empezaste a programar?
-* ¿Te da para vivir la fama?
+* ¿Por qué Javascript?
+ 
 
+## Preguntas (especificas para el invitado)
+* ¿Te da para vivir la fama?
