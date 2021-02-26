@@ -7,6 +7,7 @@ Laura Morillo
 
 ## Beerguntas (para todos los invitados)
 
+* ¿Cuál es tu cerveza favorita?
 * ¿Cómo empezaste a programar?
 * ¿Por qué Javascript?
  
