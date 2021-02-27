@@ -14,3 +14,4 @@ Laura Morillo
 
 ## Preguntas (especificas para el invitado)
 * ¿Te da para vivir la fama?
+* ¿Qué hace falta para tener muchos suscriptores? ¿Paciencia, simpatía...?
