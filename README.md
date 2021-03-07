@@ -3,7 +3,8 @@
 Nuestros encuentros son como una quedada JavaScripter para ver una charla y tomar algo después,
 pero sin la charla.
 Para vernos y charlar un rato, vamos.
-Por ahora exclusivamente en remoto y por YouTube.
+Por ahora exclusivamente en remoto y por
+[YouTube](https://www.youtube.com/channel/UCo4rtqAgSMCEzw7ibyHF6YA).
 
 Tenemos pensadas varias actividades:
 
