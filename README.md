@@ -15,6 +15,7 @@ y todo lo que se nos ocurra.
 
 ## Redes
 
+* [Web](https://javascript.beer/)
 * [YouTube](https://www.youtube.com/channel/UCo4rtqAgSMCEzw7ibyHF6YA)
 * [Twitter](https://twitter.com/JavascriptBeer)
 
