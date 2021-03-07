@@ -36,7 +36,7 @@ El equipo fundador:
 * [Laura Morillo](https://twitter.com/Laura_Morillo),
 * [Félix Zapata](https://twitter.com/felixzapata),
 * [Manu Fosela](https://twitter.com/manufosela),
-* Raquel Benito, "pandora"
+* [Raquel Benito "pandora"](https://twitter.com/Pand_Ra),
 * [Álvaro Quirós](https://twitter.com/aloDev),
 * [Alex Fernández "pinchito"](https://twitter.com/pinchito).
 
