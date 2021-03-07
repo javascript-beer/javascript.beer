@@ -1,7 +1,10 @@
 # JavaScript Beers!
 
-Este grupo se dedica a organizar actividades variadas
-para mantener el contacto entre la comunidad JavaScripter:
+Nuestros encuentros son como una quedada JavaScripter para ver una charla y tomar algo después,
+pero sin la charla.
+Para vernos y charlar un rato, vamos.
+
+Tenemos pensadas varias actividades:
 
 * entrevistas,
 * charlas,
@@ -9,6 +12,11 @@ para mantener el contacto entre la comunidad JavaScripter:
 * workshops,
 
 y todo lo que se nos ocurra.
+
+## Redes
+
+* [YouTube](https://www.youtube.com/channel/UCo4rtqAgSMCEzw7ibyHF6YA)
+* [Twitter](https://twitter.com/JavascriptBeer)
 
 ## Participa
 
@@ -22,15 +30,15 @@ fechas, y todo lo que pueda facilitar la organización del evento.
 
 El equipo fundador:
 
-* Laura Morillo,
-* Félix Zapata,
-* Manu Fosela,
+* [Laura Morillo](https://twitter.com/Laura_Morillo),
+* [Félix Zapata](https://twitter.com/felixzapata),
+* [Manu Fosela](https://twitter.com/manufosela),
 * Raquel Benito, "pandora"
-* Álvaro Quirós,
-* Alex Fernández "pinchito".
+* [Álvaro Quirós](https://twitter.com/aloDev),
+* [Alex Fernández "pinchito"](https://twitter.com/pinchito).
 
 ## Agradecimientos
 
-Gracias a toda la gente que habéis colaborado
-o que habéis asistido a algún evento.
+Gracias especiales a la gente que nos ha acompañado en algún evento.
+Gracias también por asistir 😍
 
