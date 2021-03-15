@@ -19,3 +19,4 @@
 * Jaume Sanchez Elias https://twitter.com/thespite
 * Alena Nikolaeva @alenanik11
 * Alfredo López Moltó
+* Rafa Casuso
