@@ -1,11 +1,12 @@
-# Carlos Azaustre
+# Miguel Ángel Durán (midudev)
 
 ## Entrevistadores
 
-Álvaro Quirós: Preguntas del público
-Alex Fernández: Birreguntas
+* Álvaro Quirós: Preguntas del público.
+* Alex Fernández: Birreguntas.
+* Laura Morillo, Manu Fosela, Raquel Benito, Félix Ortega: _Impromptu_.
 
-## Beerguntas (para todos los invitados)
+## Birreguntas (para todos los invitados)
 
 * ¿Cuál es tu cerveza favorita?
 * ¿Cómo empezaste a programar?
