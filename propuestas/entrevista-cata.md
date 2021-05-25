@@ -1,4 +1,4 @@
-# Miguel Ángel Durán (midudev)
+# Catalina Oyaneder (@cataflu)
 
 ## Entrevistadores
 
