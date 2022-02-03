@@ -1,18 +1,10 @@
 # Cola de entrevistas
 
-* Miguel Angel @midudev
-* Gonzalo Ruiz de Villa
 * Ana Cidre
-* Pablo Almunia
 * Pedro Palao
-* SuperDI
-* Natalia
 * Sherry
 * Nya
-* Ari_reinventada
-* Cata Oyaneder
 * Carlos Blé
-* Natalia Venditto
 * David Bonilla
 * Sema 
 * https://twitter.com/Terceranexus6
@@ -20,3 +12,18 @@
 * Alena Nikolaeva @alenanik11
 * Alfredo López Moltó
 * Rafa Casuso
+* José Manuel Pérez (ex-Spotify)
+
+# Realizadas
+
+* Miguel Angel @midudev
+* Gonzalo Ruiz de Villa
+* Pablo Almunia
+* Ari_reinventada
+* Cata Oyaneder
+* Natalia Venditto
+* Alba Silvente
+
+# Canceladas
+
+* SuperDI
